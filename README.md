@@ -2,13 +2,13 @@
 
 This repository houses software for recreating the numerical examples and experiments included in the following paper:
 
-- Spectral risk-based learning using unbounded losses. Matthew J. Holland and El Mehdi Haress. *Preprint*.
+- <a href="https://arxiv.org/pdf/2105.04816.pdf">Spectral risk-based learning using unbounded losses</a>. Matthew J. Holland and El Mehdi Haress. *Preprint*.
 
 The software here can be used to faithfully reproduce all the experimental results given in the above paper, and can also be easily applied to more general machine learning tasks, going well beyond the examples considered here.
 
 A table of contents for this README file:
 
-- <a href="#setup_init">Setup: initial software prepartion</a>
+- <a href="#setup_init">Setup: initial software preparation</a>
 - <a href="#setup_data">Setup: preparing the benchmark data sets</a>
 - <a href="#start">Getting started</a>
 - <a href="#demos">Demos and visualization</a>
